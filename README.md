@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ---
 # Programming Journey
-I studied mathematics and classics in college, now I'm learning to be a Software Engineer. Here is my journey:
+I studied mathematics and classics in college, now I'm learning to be a Software Engineer. Here is how I self-taught:
 
 **Began September 15th 2022**
 
@@ -21,7 +21,9 @@ I studied mathematics and classics in college, now I'm learning to be a Software
 *The Odin Project* (TOP) - Status: In Progress
 
 *MIT Engineering and Computer Science Degree Requirements* - Status: In Progress
-*Books:* 
+
+*Books -
+* Automate the Boring Stuff with Python
 
 ---
 # Projects
