@@ -22,7 +22,7 @@ I studied mathematics and classics in college, now I'm learning to be a Software
 
 *MIT Engineering and Computer Science Degree Requirements* - Status: In Progress
 
-*Books -
+*Books* -
 * Automate the Boring Stuff with Python
 
 ---
