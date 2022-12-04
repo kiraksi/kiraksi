@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 # Programming Journey
 I studied mathematics and classics in college, now I'm learning to be a Software Engineer. Here is how I learned:
 
-**Began September 15th 2022**
+**Self-Studying**
 
 *Harvards Introduction to Programming with Python* (CS50P) - Status: In Progress
 
