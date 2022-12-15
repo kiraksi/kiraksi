@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kira-kaur-sidhu
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning, chess engines
 - 🌱 I’m currently learning about **Python**
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/kira-kaur-661518248/
 
 <!---
 kira-kaur-sidhu/kira-kaur-sidhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
