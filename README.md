@@ -14,9 +14,9 @@ I studied mathematics and classics in college, now I'm learning to be a Software
 
 **Self-Studying**
 
-*Harvards Introduction to Programming with Python* (CS50P) - Status: In Progress
+*Harvards Introduction to Programming with Python* (CS50P) - Status: Completed
 
-*Harvard's Introduction to Computer Science* (CS50) - Status: In Progress
+*Harvard's Introduction to Computer Science* (CS50) - Status: Completed
 
 *The Odin Project* (TOP) - Status: In Progress
 
@@ -27,5 +27,6 @@ I studied mathematics and classics in college, now I'm learning to be a Software
 
 ---
 # Projects
+Chess Engine (In Progress)
 
 ## Personal Website using Full-stack Javascript
