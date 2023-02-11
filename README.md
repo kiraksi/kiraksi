@@ -27,6 +27,6 @@ I studied mathematics and classics in college, now I'm learning to be a Software
 
 ---
 # Projects
-Chess Engine (In Progress)
+## Chess Engine (In Progress)
 
 ## Personal Website using Full-stack Javascript
