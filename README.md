@@ -14,16 +14,19 @@ I studied mathematics and classics in college, now I'm learning to be a Software
 
 **Self-Studying**
 
-*Harvards Introduction to Programming with Python* (CS50P) - Status: Completed
+Harvards Introduction to Programming with Python (CS50P) - Status: Completed  <br />
+*Python*
 
-*Harvard's Introduction to Computer Science* (CS50) - Status: Completed
+Harvard's Introduction to Computer Science (CS50) - Status: Completed  <br />
+*C, Python*
 
-*The Odin Project* (TOP) - Status: In Progress
+The Odin Project (TOP) - Status: In Progress  <br />
+*HTML, CSS, Javascript*
 
-*MIT Engineering and Computer Science Degree Requirements* - Status: In Progress
+MIT Engineering and Computer Science Degree Requirements - Status: In Progress  <br />
 
-*Books* -
-* Automate the Boring Stuff with Python
+**Books**
+*Automate the Boring Stuff with Python*
 
 ---
 # Projects
