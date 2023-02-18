@@ -25,7 +25,7 @@ The Odin Project (TOP) - Status: In Progress  <br />
 
 MIT Engineering and Computer Science Degree Requirements - Status: In Progress  <br />
 
-**Books**
+**Books** <br />
 *Automate the Boring Stuff with Python*
 
 ---
