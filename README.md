@@ -2,7 +2,7 @@
 - 👀 I’m interested in **learning**, **chess engines**
 - 🌱 I’m currently learning about **Python, C, C++, JavaScript**
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kira-kaur-661518248/)
+- 📫 How to reach me: 
 
 <!---
 kira-kaur-sidhu/kira-kaur-sidhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
