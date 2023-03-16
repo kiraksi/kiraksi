@@ -10,7 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 ---
 # Programming Journey
-I studied mathematics and classics in college, now I'm learning to be a Software Engineer at Ada Developer's Academy. Here is how I prepared:
+I studied mathematics and classics in college, now I'm learning to be a Software Engineer at **Ada Developer's Academy**. 
+
+Here is how I prepared:
 
 **Self-Studying**
 
