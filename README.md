@@ -13,9 +13,11 @@ You can click the Preview link to take a look at your changes.
 I studied mathematics and classics in college, now I'm learning to be a Software Engineer at **Ada Developer's Academy**. 
 
 **Ada Developers Academy**
+
 Python, OOP, SQL, Flask, HTML/CSS/Javascript, React <br />
 
 **Self-Studying**
+
 Harvards Introduction to Programming with Python (CS50P) - Status: Completed  <br />
 *Python*
 
