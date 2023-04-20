@@ -12,10 +12,10 @@ You can click the Preview link to take a look at your changes.
 # Programming Journey
 I studied mathematics and classics in college, now I'm learning to be a Software Engineer at **Ada Developer's Academy**. 
 
-Here is how I prepared:
+**Ada Developers Academy**
+Python, OOP, SQL, Flask, HTML/CSS/Javascript, React
 
 **Self-Studying**
-
 Harvards Introduction to Programming with Python (CS50P) - Status: Completed  <br />
 *Python*
 
@@ -23,7 +23,7 @@ Harvard's Introduction to Computer Science (CS50) - Status: Completed  <br />
 *C, Python, SQL, HTML/CSS/Javascript, Flask*
 
 The Odin Project (TOP) - Status: In Progress  <br />
-*HTML, CSS, Javascript*
+*HTML, CSS, Javascript, NodeJS, MongoDB, Express/Mongoose*
 
 MIT Engineering and Computer Science Degree Requirements - Status: In Progress  <br />
 *Python*
