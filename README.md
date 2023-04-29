@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kira-kaur-sidhu
 - 👀 I’m interested in **learning**, **chess engines**
 - 🌱 I’m currently learning about **Python, C, HTML/CSS/JavaScript, Swift, SQL, Flask, React**
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: 
 
 <!---
