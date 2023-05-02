@@ -35,6 +35,8 @@ MIT Engineering and Computer Science Degree Requirements - Status: In Progress  
 
 ---
 # Projects
-## Chess Opening Engine (In Progress)
+## Chess Engine (In Progress)
 
-## Personal Website using Full-stack Javascript
+## Chess Opening Game IOS App (In Progress)
+
+## Personal Website using Full-stack Javascript (To Do)
