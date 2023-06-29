@@ -32,11 +32,15 @@ MIT Engineering and Computer Science Degree Requirements - Status: In Progress  
 
 **Books** <br />
 *Automate the Boring Stuff with Python*
+*Grokking Algorithms*
+*Cracking the Coding Interview*
+*Coding the Matrix - Linear Algebra with Applications to Computer Science*
+*Designing Data-Intensive Applications*
 
 ---
 # Projects
-## Chess Engine (In Progress)
+## Chess Engine w/ App (In Progress)
 
-## Chess Opening Game IOS App (In Progress)
+## Personal Website using React (To Do)
 
-## Personal Website using Full-stack Javascript (To Do)
+## Trading Algo and Research Paper (To Do)
