@@ -28,7 +28,7 @@ The Odin Project (TOP) - Status: In Progress  <br />
 *HTML, CSS, Javascript, NodeJS, MongoDB, Express/Mongoose*
 
 MIT Engineering and Computer Science Degree Requirements - Status: In Progress  <br />
-*Python*
+*See Repo for Classes*
 
 **Books** <br />
 *Automate the Boring Stuff with Python*
