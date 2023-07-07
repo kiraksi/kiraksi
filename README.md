@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kira-kaur-sidhu
-- 👀 I’m interested in **machine learning, AI, natural language processing, chess engines**
+- 👀 I’m interested in **machine learning, AI, computer vision, chess engines**
 - 🌱 I’m currently learning about **Python, C, HTML/CSS/JavaScript, Swift, SQL, Flask, React**
 - 💞️ I’m looking to collaborate on **Open Source Projects**
 - 📫 How to reach me: 
