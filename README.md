@@ -39,8 +39,10 @@ MIT Engineering and Computer Science Degree Requirements - Status: In Progress  
 
 ---
 # Projects
+## Computer Vision & Machine Learning Project (FreshEye - Completed)
+
 ## Chess Engine w/ App (In Progress)
 
 ## Personal Website using React (To Do)
 
-## Trading Algo and Research Paper (To Do)
+## Trading Algo and Research Paper (In Progress)
