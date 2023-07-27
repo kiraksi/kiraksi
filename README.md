@@ -22,7 +22,7 @@ Harvards Introduction to Programming with Python (CS50P) - Status: Completed  <b
 *Python*
 
 Harvard's Introduction to Computer Science (CS50) - Status: Completed  <br />
-*C, Python, SQL, HTML/CSS/Javascript, Flask*
+*C, Python, SQL, HTML/CSS/Javascript, Flask, React*
 
 The Odin Project (TOP) - Status: In Progress  <br />
 *HTML, CSS, Javascript, NodeJS, MongoDB, Express/Mongoose*
