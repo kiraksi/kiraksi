@@ -15,10 +15,10 @@ You can click the Preview link to take a look at your changes.
 - DeepLearning.AI
 
 # Projects
-## Computer Vision & Machine Learning Project (FreshEye - Completed)
+### Computer Vision & Machine Learning Project (FreshEye - Completed)
 
-## Chess Engine w/ App (BarbieFischer - In Progress)
+### Chess Engine w/ App (BarbieFischer - In Progress)
 
-## Personal Website using React (To Do)
+### Personal Website using React (To Do)
 
-## Trading Algo and Research Paper (In Progress)
+### Trading Algo and Research Paper (In Progress)
