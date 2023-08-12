@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 - MIT OpenCourseWare (MATH+CS Degree, MicroMasters in Data Science)
 - DeepLearning.AI
 
-# Projects
+# Personal Projects
 ### Computer Vision & Machine Learning Project (FreshEye - Completed)
 
 ### Chess Engine w/ App (BarbieFischer - In Progress)
