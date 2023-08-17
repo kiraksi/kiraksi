@@ -16,10 +16,11 @@ You can click the Preview link to take a look at your changes.
 - Odin Project
 
 # Personal Projects
-### Computer Vision & Machine Learning Project (FreshEye - Completed)
+- Computer Vision & Machine Learning Project (FreshEye - Completed)
+- Chess Engine w/ App (BarbieFischer - Completed)
+- Personal Website using React (In Progress)
+- Algorithm Trading Engine (In Progress)
 
-### Chess Engine w/ App (BarbieFischer - In Progress)
-
-### Personal Website using React (To Do)
-
-### Trading Algo and Research Paper (In Progress)
+# Research
+- Math LLM with Eleuther AI
+- Program Synthesis Research
