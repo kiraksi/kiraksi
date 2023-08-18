@@ -16,10 +16,13 @@ You can click the Preview link to take a look at your changes.
 - Odin Project
 
 # Personal Projects
-- Computer Vision & Machine Learning Project (FreshEye - Completed)
-- Chess Engine w/ App (BarbieFischer - Completed)
+- BarbieFischer - Chess Engine, Python, Flask, ReactNative
 - Personal Website using React (In Progress)
 - Algorithm Trading Engine (In Progress)
+
+# Hackathon/Competition Projects
+- Quterus -  Quiz Game. React with NodeJS/Express and MongoDB. Created Google Bard script. *Prize Winner at TechTogether Digital*
+- FreshEye - Fruit Freshness Dectection. Computer Vision & Machine Learning Project *Seattle Builders*
 
 # Research
 - Math LLM with Eleuther AI
