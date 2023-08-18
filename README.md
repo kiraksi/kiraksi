@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 - Odin Project
 
 # Personal Projects
-- BarbieFischer - Chess Engine, Python, Flask, ReactNative
+- Barbie-Fischer-Chess - Chess Engine w/ React Native Android App
 - Personal Website using React (In Progress)
 - Algorithm Trading Engine (In Progress)
 
