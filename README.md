@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kiraksi (formerly kira-kaur-sidhu)
-- 👀 I’m interested in **machine learning, AI, computer vision, program sythesis**
+- 👀 I’m interested in **backend engineering, low-level, machine learning, AI, computer vision, program sythesis**
 - 🌱 I’m currently learning about **Python, C, C++, HTML/CSS/JavaScript, SQL, Flask, React, Data Science, Algorithms, Data Structures**
 - 💞️ I’m looking to collaborate on **Open Source Projects, ML Research**
 - 📫 How to reach me: https://www.linkedin.com/in/kiraksi
