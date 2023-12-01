@@ -9,6 +9,12 @@ kira-kaur-sidhu/kira-kaur-sidhu is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 ---
+
+## Leetcode link (), Advent of Code 2023 (), ....
+
+# Open Source Contributions
+- Google Python Bigquery Cloud Client Libraries
+- 
 # Learning Projects
 - CS50 (X, Python, AI)
 - MIT OpenCourseWare (MATH+CS Degree, MicroMasters in Data Science, Intro to Deep Learning, Intro to Program Synthesis, Missing Semester)
