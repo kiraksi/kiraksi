@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 # Open Source Contributions
 - Google Python Bigquery Cloud Client Libraries
+- Keras
 - 
 # Learning Projects
 - CS50 (X, Python, AI)
