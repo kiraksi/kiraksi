@@ -15,7 +15,8 @@ You can click the Preview link to take a look at your changes.
 # Open Source Contributions
 - Google Python Bigquery Cloud Client Libraries
 - Keras
-- 
+- Pandas
+  
 # Learning Projects
 - CS50 (X, Python, AI)
 - MIT OpenCourseWare (MATH+CS Degree, MicroMasters in Data Science, Intro to Deep Learning, Intro to Program Synthesis, Missing Semester)
