@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @kiraksi (formerly kira-kaur-sidhu)
-- 👀 I’m interested in **backend engineering, low-level, machine learning, AI, computer vision, program sythesis**
-- 🌱 I’m currently learning about **Python, C, C++, HTML/CSS/JavaScript, SQL, Flask, React, Data Science, Algorithms, Data Structures**
-- 💞️ I’m looking to collaborate on **Open Source Projects, ML Research**
-- 📫 How to reach me: https://www.linkedin.com/in/kiraksi
-
 <!---
 kira-kaur-sidhu/kira-kaur-sidhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -15,7 +9,6 @@ You can click the Preview link to take a look at your changes.
 # Open Source Contributions
 - Google Python Bigquery Cloud Client Libraries
 - Keras
-- Pandas
   
 # Learning Projects
 - CS50 (X, Python, AI)
