@@ -4,7 +4,6 @@ You can click the Preview link to take a look at your changes.
 --->
 ---
 
-### Leetcode link (), Advent of Code 2023 (), ....
 
 ## Open Source Contributions
 - Google Python Bigquery Cloud Client Libraries
@@ -28,3 +27,5 @@ You can click the Preview link to take a look at your changes.
 ## Research
 - Math LLM with Eleuther AI
 - Program Synthesis Research
+
+## Leetcode, Advent of Code, Linkedin
