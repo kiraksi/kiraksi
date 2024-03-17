@@ -8,6 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Open Source Contributions
 - Google Python Bigquery Cloud Client Libraries
+- Google Api Core
 - Keras
   
 ## Learning Projects
